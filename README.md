@@ -1,2 +1,1 @@
-# Bank-account-with-Java
-A simple java code for showing bank account
+A simple java code showing the usage of classes outside of the main method
